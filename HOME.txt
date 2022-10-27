@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+ 
+  <head>
+    <title>HOME</title>
+  </head>
+
+  <style>
+
+    a:link, a:visited {
+      background-color: blue;
+      color: white;
+      padding: 15px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+  </style>
+  
+  <body background= "./IMAGES/HOME.png" style="background-repeat:no-repeat;background-attachment:fixed; background-size:100% 100%">
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <b><center style= "color: white; font-size:30px">
+    
+      <h1>
+        HOME PAGE
+      </h1>
+  
+    </b>
+
+    <b><p>
+   
+      <a href="./VIDEOS.html">
+        VIDEOS
+      </a>
+    
+    </b>
+
+    <br/>
+  
+    <b>
+      <p>
+    
+        <a href="./PLAYLIST.html">
+         PLAYLIST
+        </a>
+
+      </p>
+      
+    </b>
+
+    <b>
+      
+      <p>
+      
+        <a href="./ABOUT.html">
+          ABOUT
+        </a>
+
+      </p>
+      
+    </b>
+
+  </body>
+  
+</html>

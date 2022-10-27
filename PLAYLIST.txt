@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PLAYLIST</title>
+    </head>
+
+    <body background= "./IMAGES/PLAYLIST.png" style="background-repeat:no-repeat;background-attachment:fixed; background-size:100% 100%">
+        
+        <br  />
+        <br  />
+    
+        <h1><center style= "font-size:45px; color: white;">
+            PLAYLIST
+        </h1>
+
+        <br  />
+        <br  />
+
+        <h2><center style="font-size:40px; color:white; border:5px solid White;">
+            SPOTIFY
+        </h2>
+
+        <p><center style="font-size:35px;">
+           
+            <a href="https://kworb.net/spotify/artist/3g7vYcdDXnqnDKYFwqXBJP.html">
+                SB19 - Spotify Chart History
+            </a>
+            
+        </p>
+
+        <p><center style="font-size:35px;">
+
+            <a href="https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP?si=N03YuJU_SHal9H7QVbnRHQ">
+                Spotify link
+            </a>
+        
+        </p>
+
+        <br  />
+
+        <h2><center style="font-size:40px; color:white; border:5px solid White;">
+            YOUTUBE CHANNEL
+        </h2>
+
+        <p><center style="font-size:35px;">
+            
+            <a href="https://en.wikipedia.org/wiki/SB19">
+                About SB19
+            </a>
+            
+        </p>
+    
+         <p><center style="font-size:35px;">
+            
+            <a href="https://www.youtube.com/channel/UCm4v7afBTnJKRm4SlfHJzyg">
+                Youtube Link
+            </a>
+            
+        </p>
+
+        <br  />
+
+        <h2><center style="font-size:40px; color:white; border:5px solid White;">
+            BRAND ENDORSEMENT VIDEOS
+        </h2>
+    
+        <p><center style="font-size:35px;">
+            
+            <a href="https://bestlifeqatar.com/2022/09/12/sb19s-list-of-recent-commercials-they-are-the-next-big-thing-for-the-ppop-music-industry//">
+                SB19's List of Recent Commercials
+            </a>
+            
+        </p>
+
+        <p><center style="font-size:35px;">
+            
+            <a href="https://youtube.com/playlist?list=PLxPlPn89QnKKP2IN6_VwdwKohmyTr1bJz">
+                Brand Endorsement Music link
+            </a>
+            
+        </p>
+        
+        <br/>
+
+        <h3><center style="color:white; font-size:40px;">
+
+            <a href="./HOME.html">
+                BACK
+            </a>
+        </h3>
+
+    </body>
+
+</html>

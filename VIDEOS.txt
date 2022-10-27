@@ -1,0 +1,153 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+        <title>VIDEOS</title>
+    </head>
+
+    <body background= "./IMAGES/VIDEOS.png" style="background-repeat:no-repeat;background-attachment:fixed; background-size:100% 100%">
+
+        <br />
+        <br />
+
+        <h1><center style="color:white; font-size:45px;">
+            VIDEOS
+        </h1>
+        
+        <br />
+        <br />
+
+        <h1><center style= "border:5px solid White; color:white; font-size:40px;"> 
+            MUSIC VIDEOS 
+        </h1>
+
+        <p><center style= "font-size:35px;">
+
+            <a href="https://www.youtube.com/watch?v=WRfhzWaiQvk">
+                GO UP
+            </a><br />
+            
+            <a href="https://www.youtube.com/watch?v=aIT2X9HWJLE">
+                WYAT
+            </a><br />
+            
+            <a href="https://www.youtube.com/watch?v=OAww-qrSnPs">
+                WHAT?
+            </a><br />
+            
+            <a href="https://www.youtube.com/watch?v=-tWuVqZnoL4">
+                ALAB
+            </a><br />
+           
+            <a href="https://www.youtube.com/watch?v=p6XBcQj5Hs4">
+                BAZINGA
+            </a><br />
+            
+            <a href="https://www.youtube.com/watch?v=9Fqszuma1zQ">
+                TILALUHA
+            </a><br />
+            
+            <a href="https://www.youtube.com/watch?v=Fi_tk-UJeq0">
+                LIGAYA
+            </a><br />
+            
+            <a href="https://www.youtube.com/watch?v=ffh0ojPU27k">
+                SMLT
+            </a><br />
+            
+            <a href="https://www.youtube.com/watch?v=sCQqXGUvCk4">
+                IKAKO
+            </a><br />
+            
+            <a href="https://www.youtube.com/watch?v=S82NKEOVj50">
+                HANGGANG SA HULI
+            </a><br />
+
+        </p>
+
+        <br />
+        <br />
+
+        <h1><center style= "border:5px solid White; color:white; font-size:40px;">
+            LYRIC VIDEOS    
+        </h1>
+
+        <p><center style= "font-size:35px">
+           
+            <a href="https://youtu.be/DDyr3DbTPtk">
+                MAPA
+            </a><br />
+           
+            <a href="https://www.youtube.com/watch?v=Lo9ANiFeeyk">
+                NO STOPPING YOU
+            </a><br />
+           
+            <a href="https://www.youtube.com/watch?v=VrkxGbtJB6E">
+                KAPANGYARIHAN
+            </a><br />
+           
+            <a href="https://www.youtube.com/watch?v=4bWzjS0CTfc">
+                MAPA(BAND VERSION)
+            </a><br />
+           
+            <a href="https://www.youtube.com/watch?v=9hyjlDunZus">
+                THE ONE
+            </a><br />
+            
+            <a href="https://www.youtube.com/watch?v=nGHrNXd3Tkk">
+                MERRY MUNCHKIN
+            </a><br />
+
+        </p>
+
+        <br />
+        <br />
+
+        <h1><center style= "border:5px solid White; color:white; font-size:40px;">
+            DANCE PRACTICE
+        </h1>
+
+        <p><center style= "font-size:35px">
+            
+            <a href="https://www.youtube.com/watch?v=P4BR-Er60yw">
+                GO UP
+            </a><br />
+            
+            <a href="https://www.youtube.com/watch?v=eqKq-9HKu6w">
+                ALAB(BURNING)
+            </a><br /> 
+            
+            <a href="https://www.youtube.com/watch?v=RdxZl_nVMYQ">
+                LOVE GOES(EDM VER)
+            </a><br /> 
+            
+            <a href="https://www.youtube.com/watch?v=FPI79-pkjRc">
+                LOVE GOES(OG)
+            </a><br /> 
+            
+            <a href="https://www.youtube.com/watch?v=nJphTNfEWik">
+                WHAT?
+            </a><br /> 
+            
+            <a href="https://www.youtube.com/watch?v=4hQpL3sdS2s">
+                WHAT?(MOVING VER)
+            </a><br /> 
+            
+            <a href="https://www.youtube.com/watch?v=XEKYMg3tqfY">
+                SUNDIN ANG PUSO
+            </a><br /> 
+
+        </p>
+    
+        <br />
+
+        <h1><center style="color:white; font-size:40px;">
+            
+            <a href="./HOME.html">
+                BACK
+            </a>
+        
+        </h1>
+
+    </body>
+
+</html>

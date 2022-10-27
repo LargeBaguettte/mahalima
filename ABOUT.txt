@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <title>ABOUT</title>
+    </head>
+
+    <body background= "./IMAGES/ABOUT.png" style="background-repeat:no-repeat;background-attachment:fixed; background-size:100% 100%">
+
+        <br  />
+
+        <h1><center style="color:white; font-size:45px;">
+            ABOUT
+        </h1>
+
+        <br  />
+        <br  />
+        
+        <p><center style="color:white; font-size:45px;">
+            <a href="./SB19.html">SB19</a>&nbsp&nbsp&&nbsp&nbsp&nbsp
+            <a href="./ATIN.html">A'TIN</a></style>
+        </p>
+
+        <p><style="background-color:black; color:white; font-size:45px;">
+            <a href="./KEN.html">KEN</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+            <a href="./PABLO.html">PABLO</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+            <a href="./JOSH.html">JOSH</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+            <a href="./JUSTIN.html">JUSTIN</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+            <a href="./STELL.html">STELL</a></style>
+        </p>
+        
+        <br  />
+        <br  />
+
+        <p><style="color:white; font-size:20px;">
+            THE SUPERIOR &
+            THE ALPHA &
+            THE BOSS &
+            THE MASTERMIND &
+            THE ACE</style>
+        </p>
+
+        <br />
+    
+        <h3><center style="color:white; font-size:40px;">
+
+            <a href="./HOME.html">
+                BACK
+            </a>
+        </h3>
+
+    </body>
+
+</html>
